@@ -1,1 +1,1 @@
-TimeAndroid is a cross-platform API for dealing with numbers, part of the Omni platform
+TimeAndroid is a cross-platform API for dealing with time, part of the Omni platform
